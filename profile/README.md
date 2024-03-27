@@ -1,14 +1,11 @@
-# .github
-Welcome to NFDI4DS on github
+# Welcome to NFDI4DS on github
 
 Find out more about us at https://www.nfdi4datascience.de/
 
 We are a consortium of the NFDI e.V.
 https://github.com/nfdi-de
 
-<!--## Hi there 👋-->
-
-<!--
+<!--## Hi there 👋
 
 **Here are some ideas to get you started:**
 
