@@ -1,3 +1,5 @@
+![](Logo_NFDI4DataScience.png)
+
 # Welcome to NFDI4DS on github
 
 Find out more about us at https://www.nfdi4datascience.de/
